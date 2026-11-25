@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">قارئ QR الذكي</string>
+    <string name="title_activity_main">قارئ QR الذكي</string>
+    <string name="package_name">com.osama.qrscanner</string>
+    <string name="custom_url_scheme">com.osama.qrscanner</string>
+</resources>
